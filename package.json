@@ -1,0 +1,17 @@
+{
+  "name": "node_secret_message",
+  "version": "1.0.0",
+  "description": "A secret message system just like the ones in youtube comments, (press f9 to see)",
+  "main": "lib/index.js",
+  "author": "omeryagmurlu",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.2.0",
+    "eslint-config-google": "^0.4.0",
+    "eslint-config-xo": "^0.11.0"
+  },
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "terminal-kit": "^0.24.0"
+  }
+}
